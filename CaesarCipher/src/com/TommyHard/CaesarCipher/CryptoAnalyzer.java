@@ -18,7 +18,6 @@ public class CryptoAnalyzer
     public CryptoAnalyzer()
     {
         cipherStr = "";
-        //key = 0;
         downloadAlphabet("RU.txt");
         locale("RU");
         analyzer();
@@ -29,7 +28,6 @@ public class CryptoAnalyzer
         cipherStr = "";
         downloadAlphabet(filepath);
         locale(local);
-        //analyzer();
     }
 
     private void locale(String local)
@@ -44,7 +42,6 @@ public class CryptoAnalyzer
     {
         char[] bufferChar = str.toCharArray();
         String bufferString = "";
-        //String[] strForAnalyzer;
         for(int i = 0; i < bufferChar.length; ++i)
         {
             bufferString += bufferChar[i];
