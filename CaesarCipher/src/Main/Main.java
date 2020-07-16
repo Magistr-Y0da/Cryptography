@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) Magistr_Y0da.
+ * Date created: 18.03.2019
+ */
 package Main;
 
 import com.Magistr_Y0da.CaesarCipher.CaesarCipher;
