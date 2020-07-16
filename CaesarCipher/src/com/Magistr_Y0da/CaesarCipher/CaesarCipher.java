@@ -1,9 +1,10 @@
 /*
- * Copyright (c) TommyHard company.
+ * Copyright (c) Magistr_Y0da.
+ * Date created: 18.03.2019
  * This is class implements cipher Caesar.
  */
 
-package com.TommyHard.CaesarCipher;
+package com.Magistr_Y0da.CaesarCipher;
 
 import java.io.*;
 import java.util.Random;

@@ -1,7 +1,7 @@
 package Main;
 
-import com.TommyHard.CaesarCipher.CaesarCipher;
-import com.TommyHard.CaesarCipher.CryptoAnalyzer;
+import com.Magistr_Y0da.CaesarCipher.CaesarCipher;
+import com.Magistr_Y0da.CaesarCipher.CryptoAnalyzer;
 
 import java.util.Scanner;
 
